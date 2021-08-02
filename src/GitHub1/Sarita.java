@@ -6,7 +6,7 @@ public class Sarita
 	public static void main(String[] args) 
 	{
 		
-		System.out.println("Hi Sarita...........");
+		System.out.println("Hi Sarita + Priya...........");
 		
 	}
 }
